@@ -16,6 +16,5 @@ pyvenv.cfg
 pip-selfcheck.json
 Shortcuts-for-Jupyter.pdf
 datasets/*
-datasets/*
 
 # End of https://www.toptal.com/developers/gitignore/api/venv
